@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jazlan01
-- 👀 I’m interested in CS, ML, Data Science and Web Dev
+- 👀 I’m interested in Machine Learning, Deep Learning, Data Science and Web Dev
 - 🌱 I’m currently learning C++ and Python
 - 💞️ I’m looking to collaborate on Web Development Projects and AI Projects
 - 📫 Reach me at ja.zl.an@live.com
