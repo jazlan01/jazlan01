@@ -9,6 +9,10 @@ I'm Muhammad Jazlan, a Computer Science senior at [Lahore University of Manageme
 
 You can reach me at my [email](mailto:ja.zl.an@live.com).
 
+## Check out my work
+1. A responsive static course website using HTML and TailwindCSS for [FutureTech @ LUMS - Decoding the Internet](https://github.com/jazlan01/summer-at-lums.github.io)
+2. A WordPress website for [INDEX](https://index.lums.edu.pk) at LUMS
+
 ## What Am I Working On
 
 + Research focusing on AI Safety 
